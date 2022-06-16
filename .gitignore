@@ -1,0 +1,9 @@
+node_modules/
+Records/
+Sports_collectif/
+Sports_Indiv/
+asset2/
+*.json
+*.mp4
+*.m4v
+**/*~
