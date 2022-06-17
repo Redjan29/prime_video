@@ -10,15 +10,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/index.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="./asset/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./asset/logo.webp">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <title>Maison des sports</title>
 </head>
 <body>
     <header>
-        <a href="./pages/deconnexion.php" class="connex">Déconnexion</a>
+        <a href="./pages/deconnexion.php" class="connexion">Déconnexion</a>
         <h1>Maison des ligues tous les sports</h1>
-        <a href="accueil_membre.php"><img src="./asset/logo.png" alt="steam_logo"></a>
+        <a href="accueil_membre.php"><img src="./asset/logo.webp" alt="steam_logo"></a>
         
     </header>
     <main>
