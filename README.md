@@ -68,7 +68,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 # Inscription
 
-<img src="./Documentation/Formulaire1.png" alt="Employe" width="600"/>
+<img src="./Documentation/Formulaire1.PNG" alt="Employe" width="600"/>
 
 </div>
 
@@ -76,7 +76,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 # Inscription 2 eme page
 
-<img src="./Documentation/Formulaire2.png" alt="Employe" width="600"/>
+<img src="./Documentation/Formulaire2.PNG" alt="Employe" width="600"/>
 
 </div>
 
@@ -91,7 +91,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 <div align="center">
 
-<img src="./Documentation/Connexion.png" alt="Connexion" width="600"/>
+<img src="./Documentation/Connexion.PNG" alt="Connexion" width="600"/>
 
 </div>
 
@@ -108,21 +108,21 @@ Une fois authentifié, l’utilisateur accède à la page suivante :
 
 # L'accueil du membre 
 
-<img src="./Documentation/AccueilMembre.png" alt="AjoutEmploye" width="600"/>
+<img src="./Documentation/AccueilMembre.PNG" alt="AjoutEmploye" width="600"/>
 
 # Le profil
 
 </div>
 
 <div align="center">
-    <img src="./Documentation/profil.png" alt="AjoutEmploye" width="600"/>
+    <img src="./Documentation/Profil.PNG" alt="AjoutEmploye" width="600"/>
 </div>
 
 <div align="center">
 
 # Le changement de profil client 
 
-<img src="./Documentation/Modifiprofil.png" alt="AjoutEmploye" width="600"/>
+<img src="./Documentation/Modifiprofil.PNG" alt="AjoutEmploye" width="600"/>
 
 </div>
 
@@ -138,10 +138,10 @@ Une fois authentifié, l’utilisateur accède à la page suivante :
 
 </div>
 <div align="center">
-    <img src="./Documentation/MCD.png" alt="MCD" width="300"/>
+    <img src="./Documentation/MCD.PNG" alt="MCD" width="300"/>
 </div>
 
- Client ( id, pseudo, email, password, date_inscription )
-Consulter ( id, date_consultation, id.1 )
-Historique_client ( date_consultation, idClient, idEvenement )
-Evenement ( id, nom, desc, date_creation, date_modification, image )
+ Client ( id, pseudo, email, password, date_inscription ), <br>
+Consulter ( id, date_consultation, id.1 ),<br>
+Historique_client ( date_consultation, idClient, idEvenement ),<br>
+Evenement ( id, nom, desc, date_creation, date_modification, image ),

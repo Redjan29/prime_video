@@ -31,6 +31,7 @@
                 {
                     // On créer la session et on redirige sur accueil.php
                     $_SESSION['user'] = $data['id'];
+                    
                     header('Location: ../accueil_membre.php');
                     die();
                 }else{ header('Location: login.php?login_err=password'); die(); }

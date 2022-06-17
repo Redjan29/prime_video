@@ -71,9 +71,9 @@ if (!empty($_POST)) {
 ?>
      <a href="./edit_user.php">Changer le profil</a>
 
-     <form method="POST" action="">
+     <!-- <form method="POST" action="">
                     <input type="submit" id="delete "name="delete "class="button" value="Supprimer ce profil">
-                </form>
+                </form> -->
 
     </main>
         
