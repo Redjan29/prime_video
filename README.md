@@ -76,7 +76,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 # Inscription 2 eme page
 
-<img src="./Documentation/Formulaire2.PNG" alt="Formulaire2" width="600"/>
+<img src="./Documentation/Formulaire22.PNG" alt="Formulaire2" width="600"/>
 
 </div>
 
@@ -91,7 +91,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 <div align="center">
 
-<img src="./Documentation/Connexion.PNG" alt="Connexion" width="600"/>
+<img src="./Documentation/Connexion1.PNG" alt="Connexion" width="600"/>
 
 </div>
 
