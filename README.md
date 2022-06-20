@@ -60,7 +60,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 ## Le modale
 
-<img src="./Documentation/Modale.png" alt="Employe" width="600"/>
+<img src="./Documentation/Modale.png" alt="Modale" width="600"/>
 
 </div>
 
@@ -68,7 +68,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 # Inscription
 
-<img src="./Documentation/Formulaire1.PNG" alt="Employe" width="600"/>
+<img src="./Documentation/Formulaire1.PNG" alt="Formulaire1" width="600"/>
 
 </div>
 
@@ -76,7 +76,7 @@ En premier lieu, sur la page d’accueil du site, vous aurez accès à la possib
 
 # Inscription 2 eme page
 
-<img src="./Documentation/Formulaire2.PNG" alt="Employe" width="600"/>
+<img src="./Documentation/Formulaire2.PNG" alt="Formulaire2" width="600"/>
 
 </div>
 
@@ -108,21 +108,21 @@ Une fois authentifié, l’utilisateur accède à la page suivante :
 
 # L'accueil du membre 
 
-<img src="./Documentation/AccueilMembre.PNG" alt="AjoutEmploye" width="600"/>
+<img src="./Documentation/AccueilMembre.PNG" alt="Accueil_membre" width="600"/>
 
 # Le profil
 
 </div>
 
 <div align="center">
-    <img src="./Documentation/Profil.PNG" alt="AjoutEmploye" width="600"/>
+    <img src="./Documentation/Profil.PNG" alt="profil" width="600"/>
 </div>
 
 <div align="center">
 
 # Le changement de profil client 
 
-<img src="./Documentation/Modifiprofil.PNG" alt="AjoutEmploye" width="600"/>
+<img src="./Documentation/ModifProfil.PNG" alt="ModifProfil" width="600"/>
 
 </div>
 
